@@ -6,3 +6,5 @@ A dark theme made by FasterMars
 
 Download the folder and move to
 `C:\Users\<USERNAME>\.vscode\extensions\`
+
+restart Visual Studio Code and set color theme 
