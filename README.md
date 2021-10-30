@@ -1,6 +1,6 @@
 # FasterMars Dark theme 
 
-A dark theme made by FasterMars
+A dark theme made by FasterMars, designed to focus on coding rather than getting distracted by unnecessary elements while giving your eyes rest.
 
 ![SCREENSHOT](fastermars-dark-theme/images/screenshot.png)
 
